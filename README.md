@@ -11,5 +11,7 @@ The analysis answers four business questions about user engagement, listening be
 The project uses three tables:
 
 audiobooks — information about audiobooks
+
 audio_cards — users who added audiobooks
+
 listenings — audiobook listening sessions

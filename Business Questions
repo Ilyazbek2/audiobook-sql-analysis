@@ -1,0 +1,26 @@
+1. Coraline Analysis
+
+Find:
+
+How many users added "Coraline"
+How many users listened to more than 10% of the book
+2. Listening by OS and Book
+
+For each operating system and audiobook, find:
+
+Number of unique users
+Total listening time in hours
+
+Test listenings are excluded.
+
+3. Most Popular Audiobook
+
+Find the audiobook listened to by the largest number of unique users.
+
+Test listenings are excluded.
+
+4. Most Completed Audiobook
+
+Find the audiobook that is completed by the largest number of users.
+
+Test listenings are excluded.

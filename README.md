@@ -9,8 +9,8 @@ The analysis answers four business questions about user engagement, listening be
 
 ## 🗂️ Tables
 
-audiobooks — information about audiobooks
+### audiobooks — information about audiobooks
 
-audio_cards — users who added audiobooks
+### audio_cards — users who added audiobooks
 
-listenings — audiobook listening sessions
+### listenings — audiobook listening sessions
